@@ -21,3 +21,5 @@ elif [ $opt = 'rmd' ]
 then
     echo $( expr $first_num % $second_num )
 fi
+
+echo "HELLO"
